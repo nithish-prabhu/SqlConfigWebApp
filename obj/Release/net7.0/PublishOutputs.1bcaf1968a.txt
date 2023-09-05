@@ -1,0 +1,13 @@
+D:\TrainingMaterial\Azure\SqlConfigWeaApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\SqlConfigWeaApp.exe
+D:\TrainingMaterial\Azure\SqlConfigWeaApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\TrainingMaterial\Azure\SqlConfigWeaApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\TrainingMaterial\Azure\SqlConfigWeaApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\SqlConfigWeaApp.dll
+D:\TrainingMaterial\Azure\SqlConfigWeaApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\SqlConfigWeaApp.deps.json
+D:\TrainingMaterial\Azure\SqlConfigWeaApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\SqlConfigWeaApp.runtimeconfig.json
+D:\TrainingMaterial\Azure\SqlConfigWeaApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\SqlConfigWeaApp.pdb
+D:\TrainingMaterial\Azure\SqlConfigWeaApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\System.Data.SqlClient.dll
+D:\TrainingMaterial\Azure\SqlConfigWeaApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+D:\TrainingMaterial\Azure\SqlConfigWeaApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+D:\TrainingMaterial\Azure\SqlConfigWeaApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+D:\TrainingMaterial\Azure\SqlConfigWeaApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TrainingMaterial\Azure\SqlConfigWeaApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
