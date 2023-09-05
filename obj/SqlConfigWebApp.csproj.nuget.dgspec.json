@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TrainingMaterial\\Azure\\SqlConfigWeaApp\\SqlConfigWeaApp\\SqlConfigWebApp.csproj": {}
+    "D:\\TrainingMaterial\\Azure\\SqlConfigWeaApp\\SqlConfigWebApp\\SqlConfigWebApp.csproj": {}
   },
   "projects": {
-    "D:\\TrainingMaterial\\Azure\\SqlConfigWeaApp\\SqlConfigWeaApp\\SqlConfigWebApp.csproj": {
+    "D:\\TrainingMaterial\\Azure\\SqlConfigWeaApp\\SqlConfigWebApp\\SqlConfigWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TrainingMaterial\\Azure\\SqlConfigWeaApp\\SqlConfigWeaApp\\SqlConfigWebApp.csproj",
+        "projectUniqueName": "D:\\TrainingMaterial\\Azure\\SqlConfigWeaApp\\SqlConfigWebApp\\SqlConfigWebApp.csproj",
         "projectName": "SqlConfigWebApp",
-        "projectPath": "D:\\TrainingMaterial\\Azure\\SqlConfigWeaApp\\SqlConfigWeaApp\\SqlConfigWebApp.csproj",
+        "projectPath": "D:\\TrainingMaterial\\Azure\\SqlConfigWeaApp\\SqlConfigWebApp\\SqlConfigWebApp.csproj",
         "packagesPath": "C:\\Users\\z0041s0e\\.nuget\\packages\\",
-        "outputPath": "D:\\TrainingMaterial\\Azure\\SqlConfigWeaApp\\SqlConfigWeaApp\\obj\\",
+        "outputPath": "D:\\TrainingMaterial\\Azure\\SqlConfigWeaApp\\SqlConfigWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "System.Data.SqlClient": {
               "target": "Package",
